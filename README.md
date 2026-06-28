@@ -1,5 +1,7 @@
 # Parkinson's Disease Severity Assessment from Finger Tapping
 
+![Demo](demo.gif)
+
 An AI-based system to assess Parkinson's disease (PD) motor severity from finger-tapping videos recorded via webcam. The system extracts biomechanical features from hand movements and predicts a severity score on the MDS-UPDRS scale (0–4).
 
 This project was developed during a research internship at **King Abdulaziz City for Science and Technology (KACST)**, inspired by the methodology in Islam et al. (2023).
@@ -107,6 +109,5 @@ This project is inspired by and built upon the methodology described in:
 
 ## Acknowledgements
 
-Developed during a research internship at KACST (King Abdulaziz City for Science and Technology), Riyadh, Saudi Arabia.
-
-![Demo](Recording2026-06-28110557-ezgif_com-video-to-gif-converter.gif)
+Developed during a research internship at KACST (King Abdulaziz City for Science and Technology), Riyadh, Saudi Arabia.  
+Supervised by **Dr. Roshayu Mohamad** and **Prof. Turky Alotaiby**.
