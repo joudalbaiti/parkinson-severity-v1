@@ -108,3 +108,5 @@ This project is inspired by and built upon the methodology described in:
 ## Acknowledgements
 
 Developed during a research internship at KACST (King Abdulaziz City for Science and Technology), Riyadh, Saudi Arabia.
+
+![Demo](Recording2026-06-28110557-ezgif_com-video-to-gif-converter.gif)
